@@ -51,8 +51,11 @@ I am a software developer based in Jaipur, living at the intersection of AI-nati
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhat87&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat87&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=prabhat87&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prabhat87&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhat87&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 <br/>
